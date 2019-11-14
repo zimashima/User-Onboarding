@@ -1,10 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 //import UserForm
 
 import FormikUserForm from './components/Form';
+import UserDisplay from './components/Form'
 
 function App() {
   return (
