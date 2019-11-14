@@ -20,3 +20,20 @@
 .App-link {
   color: #09d3ac;
 }
+
+.mainForm{
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin: 10px 0 10px 0;
+}
+
+.inputForm{
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+}
